@@ -38,9 +38,9 @@ Run the program: ./history
 
 Works on most standard compilers; tested on Turbo C, GCC, and Code::Blocks (Windows).
 
-📄 License
+📄 License<br/>
 This project is licensed under the MIT License.
 
-🙋‍♀️ Author
-Aryika Patni
+🙋‍♀️ Author<br/>
+Aryika Patni<br/>
 Learning data structures hands-on through mini-projects like this 📚💻
